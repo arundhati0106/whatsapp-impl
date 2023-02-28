@@ -1,4 +1,4 @@
-# Messaginng backend
+# Whatsapp-impl
 ## Technology Used
 Java
 Spring Boot, Maven
